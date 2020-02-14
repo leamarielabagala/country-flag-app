@@ -1,0 +1,14 @@
+.UserDetail {
+  display: flex;
+  padding: 1rem;
+  border: 1px solid darkgrey;
+  border-radius: 2px;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.UserDetail img {
+  width: 50px;
+  height: 50px;
+  border-radius: 2px;
+}
